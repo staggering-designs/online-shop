@@ -116,12 +116,6 @@ class MyProducts extends HTMLElement {
                 <div class="showcase-banner">
                   <img src="./assets/products/4d_plates.jpg" alt="4D plates" class="product-img default" width="300">
                   <img src="./assets/products/4d_plates.jpg" alt="4D plates" class="product-img hover" width="300">
-                  <div class="showcase-actions">
-                    <button class="btn-action"><ion-icon name="heart-outline"></ion-icon></button>
-                    <button class="btn-action"><ion-icon name="eye-outline"></ion-icon></button>
-                    <button class="btn-action"><ion-icon name="repeat-outline"></ion-icon></button>
-                    <button class="btn-action"><ion-icon name="bag-add-outline"></ion-icon></button>
-                  </div>
                 </div>
 
                 <div class="showcase-content">
@@ -141,27 +135,14 @@ class MyProducts extends HTMLElement {
 
               <div class="showcase">
                 <div class="showcase-banner">
-                  <img src="./assets/images/glass_coasters.jpg" alt="Coasters" class="product-img default"
-                    width="300">
-                  <img src="./assets/images/glass_coasters.jpg" alt="Coasters" class="product-img hover"
-                    width="300">
-
+                  <img src="./assets/images/glass_coasters.jpg" alt="Coasters" class="product-img default" width="300">
+                  <img src="./assets/images/glass_coasters.jpg" alt="Coasters" class="product-img hover" width="300">
                   <p class="showcase-badge angle black">sale</p>
-
-                  <div class="showcase-actions">
-                    <button class="btn-action"><ion-icon name="heart-outline"></ion-icon></button>
-                    <button class="btn-action"><ion-icon name="eye-outline"></ion-icon></button>
-                    <button class="btn-action"><ion-icon name="repeat-outline"></ion-icon></button>
-                    <button class="btn-action"><ion-icon name="bag-add-outline"></ion-icon></button>
-                  </div>
                 </div>
 
                 <div class="showcase-content">
                   <a href="#" class="showcase-category">Glass Coasters</a>
-
-                  <h3>
-                    <a href="#" class="showcase-title">Glass Coasters</a>
-                  </h3>
+                  <h3> <a href="#" class="showcase-title">Glass Coasters</a></h3>
 
                   <div class="showcase-rating">
                     <ion-icon name="star"></ion-icon>
@@ -178,21 +159,14 @@ class MyProducts extends HTMLElement {
 
               <div class="showcase">
                 <div class="showcase-banner">
-                  <img src="./assets/images/logo/logo.jpg" alt="Mens Winter Leathers Jackets" class="product-img default"width="300">
-                  <img src="./assets/images/logo/logo.jpg" alt="Mens Winter Leathers Jackets" class="product-img hover"width="300">
-
-                  <div class="showcase-actions">
-                    <button class="btn-action"><ion-icon name="heart-outline"></ion-icon></button>
-                    <button class="btn-action"><ion-icon name="eye-outline"></ion-icon></button>
-                    <button class="btn-action"><ion-icon name="repeat-outline"></ion-icon></button>
-                    <button class="btn-action"><ion-icon name="bag-add-outline"></ion-icon></button>
-                  </div>
+                  <img src="./assets/images/fitness_hoodie.jpg" alt="Fitness Hoodie" class="product-img default"width="300">
+                  <img src="./assets/images/fitness_hoodie.jpg" alt="Fitness Hoodie" class="product-img hover"width="300">
                 </div>
 
                 <div class="showcase-content">
-                  <a href="#" class="showcase-category">jacket</a>
+                  <a href="#" class="showcase-category">Gym Clothes</a>
 
-                  <h3><a href="#" class="showcase-title">Mens Winter Leathers Jackets</a></h3>
+                  <h3><a href="#" class="showcase-title">Fitness Hoodie</a></h3>
 
                   <div class="showcase-rating">
                     <ion-icon name="star"></ion-icon>
@@ -202,7 +176,7 @@ class MyProducts extends HTMLElement {
                     <ion-icon name="star"></ion-icon>
                   </div>
 
-                  <div class="price-box"><p class="price">£32.00</p><del>£45.00</del>
+                  <div class="price-box"><p class="price">£25.00</p><del>£30.00</del>
                   </div>
                 </div>
               </div>
