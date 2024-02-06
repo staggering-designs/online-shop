@@ -171,7 +171,7 @@ class MyProducts extends HTMLElement {
                     <ion-icon name="star"></ion-icon>
                   </div>
 
-                  <div class="price-box"><p class="price">£25.00</p><del>£30.00</del>
+                  <div class="price-box"><p class="price">£15.00</p><del>£16.00</del>
                   </div>
                 </div>
               </div>
