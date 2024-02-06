@@ -408,7 +408,7 @@ class MyFooter extends HTMLElement {
                     <ion-icon name="location-outline"></ion-icon>
                   </div>
                   <address class="content">
-                    Dunlop, Kilmarnock
+                    Dunlop, Kilmarnock, Scotland
                   </address>
                 </li>
                 <li class="footer-nav-item flex">
