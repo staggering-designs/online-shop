@@ -141,9 +141,9 @@ class MyProducts extends HTMLElement {
 
               <div class="showcase">
                 <div class="showcase-banner">
-                  <img src="./assets/images/logo/logo.jpg" alt="Coasters" class="product-img default"
+                  <img src="./assets/images/glass_coasters.jpg" alt="Coasters" class="product-img default"
                     width="300">
-                  <img src="./assets/images/logo/logo.jpg" alt="Coasters" class="product-img hover"
+                  <img src="./assets/images/glass_coasters.jpg" alt="Coasters" class="product-img hover"
                     width="300">
 
                   <p class="showcase-badge angle black">sale</p>
