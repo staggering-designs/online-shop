@@ -708,7 +708,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 .banner-text { display: none; }
 
 .banner-btn {
-  background: var(--eerie-black);
+  background: var(--spanish-gray);
   color: var(--white);
   width: max-content;
   font-size: var(--fs-11);
