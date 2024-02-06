@@ -30,12 +30,12 @@ class MyBestSellers extends HTMLElement {
                 </div>
                 <div class="showcase">
                   <a href="#" class="showcase-img-box">
-                    <img src="./assets/images/logo/logo.jpg" alt="men's hoodies t-shirt" class="showcase-img"
+                    <img src="./assets/images/fitness_hoodie.jpg" alt="fitness hoodie" class="showcase-img"
                       width="75" height="75">
                   </a>
                   <div class="showcase-content">
                     <a href="#">
-                      <h4 class="showcase-title">men's hoodies t-shirt</h4>
+                      <h4 class="showcase-title">Unisex Fitness Hoodie</h4>
                     </a>
                     <div class="showcase-rating">
                       <ion-icon name="star"></ion-icon>
@@ -45,19 +45,19 @@ class MyBestSellers extends HTMLElement {
                       <ion-icon name="star-half-outline"></ion-icon>
                     </div>
                     <div class="price-box">
-                      <del>£17.00</del>
-                      <p class="price">£7.00</p>
+                      <del>£30.00</del>
+                      <p class="price">£25.00</p>
                     </div>
                   </div>
                 </div>
                 <div class="showcase">
                   <a href="#" class="showcase-img-box">
-                    <img src="./assets/images/logo/logo.jpg" alt="girls t-shirt" class="showcase-img" width="75"
+                    <img src="./assets/images/glass_coasters.jpg" alt="glass coasters" class="showcase-img" width="75"
                       height="75">
                   </a>
                   <div class="showcase-content">
                     <a href="#">
-                      <h4 class="showcase-title">girls t-shirt</h4>
+                      <h4 class="showcase-title">Glass Coasters (x4)</h4>
                     </a>
                     <div class="showcase-rating">
                       <ion-icon name="star"></ion-icon>
@@ -67,19 +67,19 @@ class MyBestSellers extends HTMLElement {
                       <ion-icon name="star-half-outline"></ion-icon>
                     </div>
                     <div class="price-box">
-                      <del>£5.00</del>
-                      <p class="price">£3.00</p>
+                      <del>£16.00</del>
+                      <p class="price">£15.00</p>
                     </div>
                   </div>
                 </div>
                 <div class="showcase">
                   <a href="#" class="showcase-img-box">
-                    <img src="./assets/images/logo/logo.jpg" alt="woolen hat for men" class="showcase-img" width="75"
+                    <img src="./assets/images/glass_placemats.jpg" alt="glass placemat" class="showcase-img" width="75"
                       height="75">
                   </a>
                   <div class="showcase-content">
                     <a href="#">
-                      <h4 class="showcase-title">woolen hat for men</h4>
+                      <h4 class="showcase-title">Glass Placemats</h4>
                     </a>
                     <div class="showcase-rating">
                       <ion-icon name="star"></ion-icon>
@@ -90,7 +90,7 @@ class MyBestSellers extends HTMLElement {
                     </div>
                     <div class="price-box">
                       <del>£15.00</del>
-                      <p class="price">£12.00</p>
+                      <p class="price">£14.00</p>
                     </div>
                   </div>
                 </div>
