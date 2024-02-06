@@ -106,7 +106,6 @@ customElements.define('my-best-sellers', MyBestSellers)
 
 
 
-
 class MyProducts extends HTMLElement {
   connectedCallback() {
     this.innerHTML = `
