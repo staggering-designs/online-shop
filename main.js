@@ -214,7 +214,7 @@ class MyHeader extends HTMLElement {
       <ul class="mobile-menu-category-list">
 
         <li class="menu-category">
-          <a href="#" class="menu-title">Home</a>
+          <a href="index.html" class="menu-title">Home</a>
         </li>
 
         <li class="menu-category">
