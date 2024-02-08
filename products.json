@@ -1,0 +1,58 @@
+[
+  {
+    "name": "4D Number Plates (Pair)",
+    "preview": "img/4d_plates_2.jpg",
+    "photos": [
+      "img/4d_plates_2.jpg",
+      "img/4d_plates_1.jpg"
+    ],
+    "description": "Laser cut 4D characters with a height of 3mm. The depth is immediately noticeable, and the sharp edges add a crispness unlike any other.",
+    "size": "The standard UK size for number plates are 520mm by 111mm. Please note this will vary if you opt for a shortened plate option. Shortened plates are cut down to a unique size depending on the length of your registration.",
+    "brand": "Staggering Designs",
+    "price": 40,
+    "id": "1"
+  },
+  {
+    "name": "4D Number Plates (Single)",
+    "preview": "img/4d_plates_1.jpg",
+    "photos": ["img/4d_plates_1.jpg","img/4d_plates_2.jpg"],
+    "description": "Laser cut 4D characters with a height of 3mm. The depth is immediately noticeable, and the sharp edges add a crispness unlike any other.",
+    "size": "The standard UK size for number plates are 520mm by 111mm. Please note this will vary if you opt for a shortened plate option. Shortened plates are cut down to a unique size depending on the length of your registration.",
+    "brand": "Staggering Designs",
+    "price": 20,
+    "id": "2"
+  },
+  {
+    "name": "Glass Coasters (x4)",
+    "preview": "img/glass_coasters.jpg",
+    "photos": [
+      "img/glass_coasters.jpg",
+      "img/glass_coasters_2.jpg"
+    ],
+    "description": "Personalised glass coasters heat pressed with pictures or logos of your choice! These come with rubber feet to prevent slipping on tables and protect the surface it sits on.",
+    "size": "10x10cm per coaster",
+    "brand": "Staggering Designs",
+    "price": 16,
+    "id": "3"
+  },
+  {
+    "name": "Car Decals",
+    "preview": "img/car_decals_1.jpg",
+    "photos": ["img/car_decals_1.jpg"],
+    "description": "Car decals made to your specification. Price varies based on design requirements. Prices start at £2.",
+    "size": "A range of sizes available with your design.",
+    "brand": "Staggering Designs",
+    "price": 2,
+    "id": "4"
+  },
+  {
+    "name": "iPhone Case",
+    "preview": "img/iphone_case.jpg",
+    "photos": ["img/iphone_case.jpg"],
+    "description": "iPhone Case made with either rubber or plastic material, with your personal photos/logo printed on the rear.",
+    "size": "iPhone Sizes: 12 mini to 15 pro max",
+    "brand": "Staggering Designs",
+    "price": 10,
+    "id": "5"
+  }
+]
