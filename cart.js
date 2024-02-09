@@ -30,19 +30,13 @@ function dynamicCartSection(ob,itemCounter)
     boxDiv.appendChild(boxh3)
 
     let boxh4 = document.createElement('h4')
-    let h4Text = document.createTextNode('Amount: Rs' + ob.price)
+    let h4Text = document.createTextNode('Amount: £' + ob.price)
     boxh4.appendChild(h4Text)
     boxDiv.appendChild(boxh4)
-
-    // console.log(boxContainerDiv);
 
     buttonLink.appendChild(buttonText)
     cartContainer.appendChild(boxContainerDiv)
     cartContainer.appendChild(totalContainerDiv)
-    // let cartMain = document.createElement('div')
-    // cartmain.id = 'cartMainContainer'
-    // cartMain.appendChild(totalContainerDiv)
-
     return cartContainer
 }
 
@@ -63,7 +57,7 @@ function amountUpdate(amount)
 {
     let totalh4 = document.createElement('h4')
     // let totalh4Text = document.createTextNode(amount)
-    let totalh4Text = document.createTextNode('Amount: Rs ' + amount)
+    let totalh4Text = document.createTextNode('Amount: £ ' + amount)
     totalh4Text.id = 'toth4'
     totalh4.appendChild(totalh4Text)
     totalDiv.appendChild(totalh4)
@@ -88,8 +82,6 @@ buttonTag.onclick = function()
 {
     console.log("clicked")
 }  
-//dynamicCartSection()
-// console.log(dynamicCartSection());
 
 // BACKEND CALL
 let httpRequest = new XMLHttpRequest()
@@ -135,7 +127,7 @@ httpRequest.onreadystatechange = function()
         }
 }
 
-httpRequest.open('GET', 'https://5d76bf96515d1a0014085cf9.mockapi.io/product', true)
+httpRequest.open('GET', 'products.json', true)
 httpRequest.send()
 
 
